@@ -1,3 +1,6 @@
+/*Crie uma função recursiva para realizar uma somatória de de número inteiros de n até
+1, sendo n um número inteiro informado pelo usuário.*/
+
 #include <stdio.h>
 
 int somatoria(int n){
